@@ -1,10 +1,15 @@
-- 👋 Hi there
-- This is Modinat Titilayo Ganiyu
-- I am a Data Analyst / Business Intelligence Analyst
-- 👀 I’m interested in ...
-- 🌱 I’m currently working on several projects to challenge myself and grow my data analytics and science skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+### Hi, I'm Modinat Titilayo Ganiyu 😍
+## I am a  Data Scientist/ Data Analyst / Business Intelligence Analyst
+- 🌟 I obtain, clean, and validate data to ensure accuracy, consistency, and reliability of data sets.
+- 🌟 I analyze business processes, systems, and structures to identify opportunities for improvement.
+- 🌟 I create visualizations and reports to communicate findings to stakeholders.
+- 🌟 I collaborate with teams to make data-driven decisions and improve processes.
+- 🌟 I’m currently working on several projects to challenge myself and grow my data analytics and science skills
+- 🌟 I currently use Python, SQL, Microsoft Excel, Power BI and Tableau. However, my favourite analytic tool is Power BI 😊
+- 🌟 I am open to Data Analytic roles
+- 👉How to reach me: [Linkedin](www.linkedin.com/in/modinatganiyudataanalyst)
+- 😇Fun Fact: I love learning and challenging myself to acquire more skills through hands on project
 
 <!---
 TitilayoMG/TitilayoMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
