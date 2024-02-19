@@ -8,7 +8,7 @@
 - 🌟 I’m currently working on several projects to challenge myself and grow my data analytics and science skills
 - 🌟 I currently use Python, SQL, Microsoft Excel, Power BI and Tableau. However, my favourite analytic tool is Power BI 😊
 - 🌟 I am open to Data Analytic roles
-- 👉How to reach me: [Linkedin](www.linkedin.com/in/modinatganiyudataanalyst)
+- 👉How to reach me: [Linkedin]([www.linkedin.com/in/modinatganiyudataanalyst](https://www.linkedin.com/in/modinat-ganiyu-5b8630264/))
 - 😇Fun Fact: I love learning and challenging myself to acquire more skills through hands on project
 
 <!---
