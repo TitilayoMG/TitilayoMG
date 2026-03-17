@@ -1,15 +1,15 @@
 
 ### Hi, I'm Modinat Titilayo Ganiyu 😍
-## I am a  Data Analyst / Business Intelligence Analyst
-- 🌟 I obtain, clean, and validate data to ensure accuracy, consistency, and reliability of data sets.
-- 🌟 I analyze business processes, systems, and structures to identify opportunities for improvement.
-- 🌟 I create visualizations and reports to communicate findings to stakeholders.
-- 🌟 I collaborate with teams to make data-driven decisions and improve processes.
-- 🌟 I’m currently working on several projects to challenge myself and grow my data analytics and science skills
-- 🌟 I currently use Python, SQL, Microsoft Excel, Power BI and Tableau. However, my favourite analytic tool is Power BI 😊
-- 🌟 I am open to Data Analytic roles
+## I am a  Data Engineer
+- 🌟 Implemented ETL pipelines handling raw ingestion, staging, transformation, and loading into fact table.
+- 🌟 Built pipelines to move files from MinIO to relational databases with automated raw and staging layers.
+- 🌟 Transformed raw data into structured formats suitable for analytics and reporting.
+- 🌟 Experienced in Airflow for scheduling, monitoring, and managing pipeline.
+- 🌟 Implemented checks, logging, and monitoring to maintain high-quality and reliable pipelines.
+- 🌟 I've used Python, SQL, Apache Airflow, MinIO and Doris. 
+- 🌟 I am open to Data Engineering roles
 - 👉How to reach me: [Linkedin](https://www.linkedin.com/in/modinat-ganiyu-5b8630264/)
-- 😇Fun Fact: I love learning and challenging myself to acquire more skills through hands on project
+- 😇Fun Fact: I love learning and challenging myself to acquire more skills through working on projects
 
 <!---
 TitilayoMG/TitilayoMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
